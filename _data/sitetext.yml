@@ -11,19 +11,19 @@ services:
         desc: "I submit Home Loan Applications to up to seven banks negotiating the best interest rates and deal in the market at any given time."
         icon: fas fa-home
         link: 
-          url: mailto:vania.leonard@evogroup.co.za?subject=Mail from evo Vania Leonard website
+          url: mailto:xxx.xxx@evogroup.co.za?subject=Mail from evo xxxxxx website
           text: "Email Me"
       - title: "Pre-qualification"
         desc: "I help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
         link:
-          url: tel:+27794855355
-          text: "Call: 079 485 5355"
+          url: tel:+27xxxxxxxxx
+          text: "Call: xxx xxx xxxx"
       - title: "Still Looking for a Home"
         desc: "I’m searching property portals and visiting show houses but have a few questions."
         icon: fas fa-search
         link: 
-          url: mailto:vania.leonard@evogroup.co.za?subject=Mail from evo Vania Leonard website
+          url: mailto:xxx.xxx@evogroup.co.za?subject=Mail from evo xxx xxx website
           text: "Email Me"
 
 articles:
@@ -75,9 +75,9 @@ more-calculators:
           text: "Calculate"
 
 textblock:
-    title: "Why evo Vania Leonard"
-    text: "Home loans are my business, and my focus is to get your bond approved."
-    footer: "My service is completely FREE, with no obligation."
+    title: "Why evo Umhlanga"
+    text: "Home loans ....getting your bond approved."
+    footer: "Our service is completely FREE, with no obligation."
     section: textblock
     list:
       - title: "I help you complete one application, which I submit to all the banks."
@@ -99,20 +99,13 @@ portfolio:
     
 about:
     title: "About Us"
-    text2: "At evo Vania Leonard my vision is to enable positive futures for my clients. My mission is to be my client’s most trusted partner. I am passionate about helping my clients achieve their goal of buying property. I am committed to my clients to provide the best service possible. <br>
-    
-    <br> 
-    
-    I am a seasoned property professional, and have spent the last 28 years in the property industry, gaining knowledge and experience in the different aspects of property sales and finance. I have a keen interest in communications, marketing, sales and customer service, obtained a National Diploma in Public  Relations, NQF4 and spent some time in the corporate world of Public Relations and Publicity.<br> 
-    
-    <br> 
+    text2: "The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz,       vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.<br><br>
 
-    I have more than 15 years’ specialised experience in bond finance and origination, having worked at ABSA Home Loans, Sanlam Home Loans, Mortgage Max and BetterBond previously. I am committed to excellent client service, building long-term relationships and always focus on the client's best interests rather than my own personal gain. 
-    
-    On a personal note, I was born in Cape Town, matriculated at Alexander Road High School in PE, studied at the Nelson Mandela University (PE) and spent 5 years in Langebaan as an Estate Agent. I enjoy running, stand-up paddle boarding, scuba diving, open-water swimming, sailing and horse-riding. On weekends (when I’m not doing show houses with agents) I enjoy spending time with my brothers, Eldon and Warren, and father, Ernie. <br>    
-    <br>
+    Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex. <br><br>
 
-    I am proud to be associated with Evo, who is a part of the ooba Group. Evo was launched to the market as a licensee model designed to cater for the origination business market and individual home loan consultants seeking to align themselves with an established brand within the mortgage origination industry. evo is managed by a highly efficient team with years of experience in banking and origination business, with over 100 licensed independent offices."
+    Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs! Now fax quiz Jack!  my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk. <br><br>
+
+    A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump. Joaquin Phoenix was gazed by MTV for luck. A wizard’s job is to vex chumps quickly in fog. Watch"
     
 clients:
     title: Bank Partners
@@ -149,15 +142,28 @@ team:
     section: team
     contact: 
     people:
-      - name: "Vania Leaonard"
+      - name: "Name Surname"
         role: "Head of Homeloans"
         image: assets/img/team/500x500.jpg
         social:
-          - url: tel:079 485 5355
+          - url: tel:079 xxx xxxx
             icon: fas fa-phone
-          - url: mailto:vania.leonard@evogroup.co.za?subject=Website Enquiry
+          - url: mailto:xxx.xxx@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
-          - url: https://www.facebook.com/EvoVaniaLeonard
+          - url: https://www.facebook.com/xxx
+            icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/bondapply
+            icon: fab fa-linkedin-in
+
+      - name: "Name Surname"
+        role: "Head of Homeloans"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: tel:079 xxx xxxx
+            icon: fas fa-phone
+          - url: mailto:xxx.xxx@evogroup.co.za?subject=Website Enquiry
+            icon: fas fa-envelope
+          - url: https://www.facebook.com/xxx
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/bondapply
             icon: fab fa-linkedin-in
@@ -167,20 +173,20 @@ testimonials:
     text: "What Others Say About Me"
     section: testimonials
     people:
-      - name: "Garth D."
-        testimony: "In my recent dealings with Vania, I can highly recommend her as she is a highly effective trustworthy person. Always professional and very quick to react and pursues the service till the end. Keeping us informed and updated constantly. She has an excellent knowledge of what she does and also the market out there and what is to offer to her clients. I will do business with her again anytime in future. Thanks Vania and keep up this exceptional business ethic."
+      - name: "Anon D. ☆☆☆☆☆"
+        testimony: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
 
-      - name: "Liza-Anne M."
-        testimony: "Baie dankie vir jou uitstekende diens! Jy het die berg papierwerk soos n molshopie laat lyk. Dankie vir die gereelde terugvoering en dat jy alles so mooi verduidelik het, ons verstaan nie altyd al die terme nie! Jy het die hele proses baie vergemaklik en alles binne 3 weke afgehandel. Ons is baie dankbaar vir jou en dat jy so lekker met die banke gebargain het vir ons! Weereens baie dankie!"
+      - name: "Unknown M. ☆☆☆☆☆"
+        testimony: "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
 
-      - name: "Nicci V."
-        testimony: "Thank you, Vania, for your dedication and professional help and advice given. You have most definitely increased my buying power and helped me to have an impressive credit report. I look forward to contacting you in the near future, again. I will definitely pass your details on to friends and family. ☆☆☆☆☆"
+      - name: "Psuedo V.☆☆☆☆☆"
+        testimony: "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."
 
         
 
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: team
     
 footer:
@@ -188,7 +194,7 @@ footer:
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"  
-      - url: https://www.facebook.com/EvoVaniaLeonard
+      - url: https://www.facebook.com/xxx
         icon: "fab fa-facebook-f"
       # - url: https://linkedin.com
       #   icon: "fab fa-linkedin-in"
