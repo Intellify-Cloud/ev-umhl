@@ -1,10 +1,6 @@
 header:
     title: 
     text: Need a home loan?
-    branches:
-      - name: Northern Suburbs (WC)
-        link: "/boland-cape-winelands"
-
 
 services:
     title: "Services We Offer"
