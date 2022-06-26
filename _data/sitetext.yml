@@ -8,22 +8,22 @@ services:
     section: services
     list:
       - title: "Bond Origination"
-        desc: "I submit Home Loan Applications to up to seven banks negotiating the best interest rates and deal in the market at any given time."
+        desc: "We submit Home Loan Applications to up to seven banks negotiating the best interest rates and deal in the market at any given time."
         icon: fas fa-home
         link: 
-          url: mailto:xxx.xxx@evogroup.co.za?subject=Mail from evo xxxxxx website
+          url: mailto:tash.pillay@evogroup.co.za?subject=Mail from evo Umhlanga website
           text: "Email Me"
       - title: "Pre-qualification"
         desc: "I help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
         icon: fas fa-tasks       
         link:
-          url: tel:+27xxxxxxxxx
-          text: "Call: xxx xxx xxxx"
+          url: tel:+27315661996
+          text: "Call: 031 566 1996"
       - title: "Still Looking for a Home"
         desc: "I’m searching property portals and visiting show houses but have a few questions."
         icon: fas fa-search
         link: 
-          url: mailto:xxx.xxx@evogroup.co.za?subject=Mail from evo xxx xxx website
+          url: mailto:tash.pillay@evogroup.co.za?subject=Mail from evo Umhlanga website
           text: "Email Me"
 
 articles:
@@ -142,31 +142,31 @@ team:
     section: team
     contact: 
     people:
-      - name: "Name Surname"
-        role: "Head of Homeloans"
+      - name: "Kimeshni Pillay"
+        role: "Homeloan Specialist"
         image: assets/img/team/500x500.jpg
         social:
-          - url: tel:079 xxx xxxx
+          - url: tel:061 457 4947
             icon: fas fa-phone
-          - url: mailto:xxx.xxx@evogroup.co.za?subject=Website Enquiry
+          - url: mailto:kim.pillay@evogroup.co.za?subject=Website Enquiry
             icon: fas fa-envelope
-          - url: https://www.facebook.com/xxx
-            icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/bondapply
-            icon: fab fa-linkedin-in
+          # - url: https://www.facebook.com/xxx
+          #   icon: fab fa-facebook-f
+          # - url: https://www.linkedin.com/in/bondapply
+          #   icon: fab fa-linkedin-in
 
-      - name: "Name Surname"
-        role: "Head of Homeloans"
+      - name: "Tash Pillay"
+        role: "Homeloan Specialist"
         image: assets/img/team/500x500.jpg
         social:
-          - url: tel:079 xxx xxxx
+          - url: tel:083 597 8698
             icon: fas fa-phone
-          - url: mailto:xxx.xxx@evogroup.co.za?subject=Website Enquiry
+          - url: mailto:tash.pillay@evogroup.co.za?subject=evo Umhlanga Website Enquiry
             icon: fas fa-envelope
-          - url: https://www.facebook.com/xxx
-            icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/bondapply
-            icon: fab fa-linkedin-in
+          # - url: https://www.facebook.com/xxx
+          #   icon: fab fa-facebook-f
+          # - url: https://www.linkedin.com/in/bondapply
+          #   icon: fab fa-linkedin-in
 
 testimonials:
     title: "TESTIMONIALS"
@@ -190,12 +190,12 @@ contact:
     section: team
     
 footer:
-    legal: "Powered by the evo Group"
+    legal: "Powered by the evo Homeloans"
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"  
-      - url: https://www.facebook.com/xxx
-        icon: "fab fa-facebook-f"
+      # - url: https://www.facebook.com/xxx
+      #   icon: "fab fa-facebook-f"
       # - url: https://linkedin.com
       #   icon: "fab fa-linkedin-in"
       # - url: https://github.com/raviriley/agency-jekyll-theme

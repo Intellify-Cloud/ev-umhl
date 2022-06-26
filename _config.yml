@@ -1,8 +1,8 @@
-baseurl: "https://www.evoxxx.co.za"
+baseurl: "https://www.evoumhlanga.co.za"
 
-title      : evo  xxx - Bond Origination & Home Loans Expert in Gqeberha Port Elizabeth PE
-email      : x.xx@evogroup.co.za
-description: Contact xxx xxxxxxxx from xxxxxxx, xxxxxxx to help you with home loan. xxxxxx is a seasoned property professional in mortgages and property finance with 28 years of experience. xxxxxx's experience ranges from sales to finance and she specializes in bonds, homeloans and origination. xxxxx is committed to excellent client service, building long-term relationships..
+title      : evo Umhlanga - Bond Origination & Home Loans Expert in Umhlanga, Durban, Kwazulu-Natal
+email      : tash.pillay@evogroup.co.za
+description: Contact Kimeshni or Tash Pillay from evo Umhlanga to help you with your home loan. We are seasoned property professionals and specialize in mortgages and property finance with years of experience. Our experience ranges from sales to finance and out focus is bonds, homeloans and origination. evo Umhlanga is committed to excellent client service, building long-term relationships.
 author     : Eben Roux / Pieter Oosthuizen
 
 analytics:
@@ -24,10 +24,10 @@ logo:
 
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
 
-group: evo Group
+group: evo Homeloans
 
-company: evo xxx xxxxxx
+company: evo Umhlanga 
 
-url: www.xxxxxx.co.za
+url: https://evohomeloans.co.za/bond-originators/umhlanga-rocks/
 
-address: 21 xxxx Road, xxx xxxxx, xxxxxxx (xxxx xxxxxxx), 6070
+address: G5 Corner of Zenith & Equinox Drive, Umhlanga Rocks, 4320
