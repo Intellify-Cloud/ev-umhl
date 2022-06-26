@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Affordability Calculator
+title: Bond Affordability Calculator
 background: white
 ---
 
